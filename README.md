@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ana Vitória
 - 👀 I’m interested in Front-End Development & UX/UI Design
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning NextJs
+- 👨‍💻 My Stack is MERN
 - 💞️ I’m looking to collaborate on web page development
 - 📫 How to reach me: my e-mail anavitoriapns@gmail.com
 
