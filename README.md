@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <h2 align="left">GitHub Stats</h3>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gadu-vit&show_icons=true&count_private=true&hide_border=true&title_color=30A3DC&icon_color=30A3DC&text_color=30A3DC&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gadu-vit&show_icons=true&count_private=true&hide_border=true&title_color=30A3DC&icon_color=30A3DC&text_color=30A3DC&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadu-vit&layout=compact&hide_border=true&title_color=30A3DC&text_color=30A3DC&bg_color=0d1117" />
 </div>
 
